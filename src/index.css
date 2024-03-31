@@ -26,6 +26,11 @@
   border: 2px solid #b80000;
 }
 
+main {
+  margin-left: 2rem;
+  margin-right: 2rem;
+}
+
 header {
   display: flex;
   justify-content: center;
