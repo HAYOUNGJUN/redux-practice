@@ -38,7 +38,7 @@ export default function CardItem({ counter }: CardItemProps) {
         width='20'
         height='20'
         viewBox='0 0 30 30'
-        fill='white'
+        fill='red'
         style={{
           position: 'inherit',
           top: '1rem',
